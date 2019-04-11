@@ -12,4 +12,5 @@ note: 3, 4 all cpme from nodejs
 
 # quick start
 in terminal: cd "folder directory of the project"
-to install dependencies of the project: npm install "/sever" && npm install "/client"
+to install dependencies of the project
+```npm install "/sever" && npm install "/client"```
